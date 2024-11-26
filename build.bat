@@ -1,0 +1,1 @@
+cls && gcc --save-temps Tile.c Board.c puzzle-15.c -o puzzle-15.exe && puzzle-15.exe
